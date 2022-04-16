@@ -1,4 +1,4 @@
 Hey there!
 This project is my submission for the odin project!
-This features 3 reciepies and thier methods to prepare!
+This page helps you cook 3 different recipes at home!
 Hope you enjoy!
